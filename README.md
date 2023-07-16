@@ -1,8 +1,10 @@
 # Манифесты и компоненты применяемые в процессе выполнения спринтов.
 ### Описание
 #### Компоненты БД
-values.yaml - требуется для деплоя helm chart PostgreSQL DB
-storageclass.yaml - требуется для успешного старта пода helm chart PostgreSQL DB
+values.yaml - требуется для деплоя helm chart PostgreSQL DB  
+
+storageclass.yaml - требуется для успешного старта пода helm chart PostgreSQL DB  
+
 pv.yaml - требуется для успешного старта пода helm chart PostgreSQL DB
 
 #### Компоненты логирования
