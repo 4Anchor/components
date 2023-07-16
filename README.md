@@ -6,6 +6,9 @@ storageclass.yaml - требуется для успешного старта п
 pv.yaml - требуется для успешного старта пода helm chart PostgreSQL DB
 
 #### Компоненты логирования
-promtail.yaml - Kubernetes манифест для деплоя агента логирования promtail
-promtail-cluster-role.yaml - манифест кластр роли promtail
-promtail-cluster-rolebinding.yaml - манифест дляпривязки кластр роли promtail
+promtail.yaml - Kubernetes манифест для деплоя агента логирования promtail  
+
+promtail-cluster-role.yaml - манифест кластр роли promtail  
+
+promtail-cluster-rolebinding.yaml - манифест дляпривязки кластр роли promtail  
+
